@@ -6,7 +6,7 @@ About you:
 ----------
 
 * You are **deeply technical**.  
-You have a track record of building distributed applications and either have a Bachelor’s in Computer Science or are so smart and self-motivated that you don’t need one.
+  You have a track record of building distributed applications and either have a Bachelor’s in Computer Science or are so smart and self-motivated that you don’t need one.
 
 * You have a history of **leadership and service** in developer communities. 
 

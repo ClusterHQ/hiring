@@ -10,7 +10,7 @@ Who we are
 
 Jobs at ClusterHQ
 =================
-Please take a look at the following positions that we are actively recruiting. If you don't see anything that looks quite right, but you think we'd be crazy to not hire you anyway, send an email with your resume and any supporting materials you feel are relevant (e.g Github profile, personal blog) to jobs@clusterhq.com.
+Please take a look at the following positions for which we are actively recruiting. If you don't see anything that looks quite right, but you think we'd be crazy to not hire you anyway, send an email with your resume and any supporting materials you feel are relevant (e.g Github profile, personal blog) to jobs@clusterhq.com.
 
 `Senior Developer Evangelist <https://github.com/ClusterHQ/hiring/blob/master/senior-evangelist.rst>`_ 
 -------------------------------------------------------------------------------------------------------
@@ -26,12 +26,3 @@ About our team
 
 * We offer flexible schedules, flexible work locations, competitive salary and benefits and a chance to be part of something big. 
 
-More reasons to work with us
-============================
-* Work on hard problems, make a big impact.
-
-* Competitive salaries and benefits.
-
-* Flexible work hours and location.
-
-* A strong belief in life/work balance.
