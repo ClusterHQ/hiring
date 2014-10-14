@@ -1,6 +1,6 @@
 Senior Developer Evangelist
 ===========================
-To apply, please send us an email at jobs@clusterhq.com
+To apply, please send us an email at jobs@clusterhq.com.
 
 About you:
 ----------
@@ -29,6 +29,10 @@ We need help with:
 * **Advocating for developers** within the ClusterHQ product & engineering team, so that we build the right products in the right way.
 
 * **Supporting developers building Dockerized applications** wherever they are, on forums, social media, and everywhere in between.
+
+Location:
+---------
+This position will work out of our San Francisco, CA or Cambridge, MA office with a possibility for remote employment elsewhere in the U.S.
 
 Application notes:
 ------------------
