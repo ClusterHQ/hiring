@@ -32,6 +32,9 @@ We need help with:
 
 * **Working with our evangelism team to support developers** building Dockerized applications wherever they are, on forums, social media, and everywhere in between.
 
+Location:
+---------
+We have a strong preference for this position to be based in our Bristol, UK office, however, we will consider the position being based in one of our other offices (San Francisco, CA or Cambridge, MA) for the right candidate.
 
 Application notes:
 ------------------
