@@ -1,32 +1,37 @@
 Who we are
 ==========
- 
 * A venture-backed startup with a mission to be The Data People for Docker. 
+
 * Offices in the US (San Francisco, CA and Cambridge, MA) and the UK (Bristol).
+
 * We’re a global team of container, storage and networking experts driven to solve the operational issues that come when data services like databases, queues and key-value stores are run in containers.  
+
 * We have big plans for Flocker, our open-source data volume and container manager which is based on 5 years of R&D, and need your help.
 
 Jobs at ClusterHQ
 =================
 Please take a look at the following positions that we are actively recruiting. If you don't see anything that looks quite right, but you think we'd be crazy to not hire you anyway, send an email with your resume and any supporting materials you feel are relevant (e.g Github profile, personal blog) to jobs@clusterhq.com.
 
-[Senior Developer Evangelist](senior-evangelist.rst)
----------------------------------------------------
-Equippingg and inspiring developers worldwide to do more with Docker and data services.
-
+`Senior Developer Evangelist <https://github.com/ClusterHQ/hiring/blob/master/senior-evangelist.rst>`_ 
+-------------------------------------------------------------------------------------------------------
+Equipping and inspiring developers worldwide to do more with Docker and data services.
 
 About our team
 ==============
 * We believe in open source, test-driven development and pair programing.  
+
 * Many of the members of our team are core contributors to the Twisted Python, OpenZFS, Linux and FreeBSD kernels. 
+
 * We also believe in hiring self-motivated, entrepreneurial and visionary team members in all parts of the organization.  
+
 * We offer flexible schedules, flexible work locations, competitive salary and benefits and a chance to be part of something big. 
 
-
-
 More reasons to work with us
-========
+============================
 * Work on hard problems, make a big impact.
+
 * Competitive salaries and benefits.
+
 * Flexible work hours and location.
+
 * A strong belief in life/work balance.
