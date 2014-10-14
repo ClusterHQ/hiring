@@ -17,6 +17,10 @@ If you don't see anything that looks quite right, but you think we'd be crazy to
 -------------------------------------------------------------------------------------------------------
 Equipping and inspiring developers worldwide to do more with Docker and data services.
 
+`Head of Developer Experience <https://github.com/ClusterHQ/hiring/blob/master/developer-experience.rst>`_
+-------------------------------------------------------------------------------------------------------
+Helping make our software and documentation simple and easy-to-use for developers at all stages of the development lifecycle.
+
 About our team
 ==============
 * We believe in open source, test-driven development and pair programming.

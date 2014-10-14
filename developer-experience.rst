@@ -22,7 +22,7 @@ About you:
 
 We need help with:
 ------------------
-* **Making our software and documentation simple easy-to-use for developers** at all stages of the development lifecycle.
+* **Making our software and documentation simple and easy-to-use for developers** at all stages of the development lifecycle.
 
 * **Optimizing the first 30-seconds, 5-minutes and 60-minutes of usage** for developer love.
 
