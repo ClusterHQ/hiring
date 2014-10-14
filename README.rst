@@ -21,7 +21,7 @@ About our team
 ==============
 * We believe in open source, test-driven development and pair programming.
 
-* Many of the members of our small team are core contributors to Twisted Python, OpenZFS and Linux kernel.
+* Many of the members of our small team are core contributors to Twisted Python, OpenZFS and the Linux kernel.
 
 * We also believe in hiring self-motivated, entrepreneurial and visionary team members in all parts of the organization.
 
