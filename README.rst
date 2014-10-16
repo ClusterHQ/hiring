@@ -11,7 +11,7 @@ Who we are
 Jobs at ClusterHQ
 =================
 Please take a look at the following positions for which we are actively recruiting.
-If you don't see anything that looks quite right, but you think we'd be crazy to not hire you anyway, send an email with your resume and any supporting materials you feel are relevant (e.g Github profile, personal blog) to jobs@clusterhq.com.
+If you don't see anything that looks quite right, but you think that you would still make a great addition to our team, send an email with your resume and any supporting materials you feel are relevant (e.g Github profile, personal blog) to jobs@clusterhq.com.
 
 `Senior Developer Evangelist <https://github.com/ClusterHQ/hiring/blob/master/senior-evangelist.rst>`_
 -------------------------------------------------------------------------------------------------------
@@ -25,8 +25,10 @@ About our team
 ==============
 * We believe in open source, test-driven development and pair programming.
 
-* Many of the members of our small team are core contributors to Twisted Python, OpenZFS and the Linux kernel.
+* Many of the members of our small team are core contributors to Twisted, OpenZFS and the Linux kernel.
 
 * We also believe in hiring self-motivated, entrepreneurial and visionary team members in all parts of the organization.
 
-* We offer flexible schedules, flexible work locations, competitive salary and benefits and a chance to be part of something big.
+* We value work/life balance with options for flexible schedule and work locations.
+
+* Last but not least, we competitive salary and benefits and a chance to be part of something big.
