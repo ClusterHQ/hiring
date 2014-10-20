@@ -52,6 +52,6 @@ About our team and our values
 
   * We support our team with respect to relationships, family, children, friends and other pursuits.
   * We offer benefits including ample maternity and paternity leave.
-  * We discourage working crazy hours (citing diminishing returns on long hours in creative roles and risk of burn-out and stress)
+  * We discourage working crazy hours, citing diminishing returns on long hours in creative roles and risk of burn-out and stress.
 
 * Last but not least, we offer competitive salaries, other benefits and a chance to be part of something big.
