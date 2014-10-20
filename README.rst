@@ -6,7 +6,7 @@ Who we are
 
 * A global team of container, storage and networking experts driven to solve the operational issues running data services like databases, queues and key-value stores in containers.
 
-* We have big plans for Flocker, our open-source data volume and container manager which is based on 5 years of R&D, and need your help.
+* We have big plans for `Flocker <https://github.com/clusterhq/flocker>`_, our open-source data volume and container manager which is based on 5 years of R&D, and need your help.
 
 Jobs at ClusterHQ
 =================
