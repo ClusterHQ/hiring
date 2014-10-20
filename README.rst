@@ -2,33 +2,56 @@ Who we are
 ==========
 * A venture-backed startup with a mission to be `The Data People for Docker <https://clusterhq.com/about/>`_.
 
-* Offices in the US (San Francisco, CA and Cambridge, MA) and the UK (Bristol).
+* Offices in the US (San Francisco, CA and Cambridge, MA) and Europe (Bristol, England).
 
-* A global team of container, storage and networking experts driven to solve the operational issues that come when data services like databases, queues and key-value stores are run in containers.
+* A global team of container, storage and networking experts driven to solve the operational issues running data services like databases, queues and key-value stores in containers.
 
-* We have big plans for Flocker, our open-source data volume and container manager which is based on 5 years of R&D, and need your help.
+* We have big plans for `Flocker <https://github.com/clusterhq/flocker>`_, our open-source data volume and container manager which is based on 5 years of R&D, and need your help.
 
 Jobs at ClusterHQ
 =================
 Please take a look at the following positions for which we are actively recruiting.
 If you don't see anything that looks quite right, but you think that you would still make a great addition to our team, send an email with your resume and any supporting materials you feel are relevant (e.g Github profile, personal blog) to jobs@clusterhq.com.
 
-`Senior Developer Evangelist <https://github.com/ClusterHQ/hiring/blob/master/senior-evangelist.rst>`_
--------------------------------------------------------------------------------------------------------
-Equipping and inspiring developers worldwide to do more with Docker and data services.
+`Senior Engineer <senior-engineer.rst>`_
+----------------------------------------
+* Architecting and building the next generation of storage and cluster management infrastructure for containers.
 
-`Head of Developer Experience <https://github.com/ClusterHQ/hiring/blob/master/developer-experience.rst>`_
--------------------------------------------------------------------------------------------------------
-Helping make our software and documentation simple and easy-to-use for developers at all stages of the development lifecycle.
+  * Hiring globally (including remote).
 
-About our team
-==============
-* We believe in open source, test-driven development and pair programming.
+`Middle Engineer <middle-engineer.rst>`_
+----------------------------------------
+* Building the next generation of storage and cluster management infrastructure for containers.
 
-* Many of the members of our small team are core contributors to Twisted, OpenZFS and the Linux kernel.
+  * SF, Boston & Bristol.
 
-* We also believe in hiring self-motivated, entrepreneurial and visionary team members in all parts of the organization.
+`Senior Developer Evangelist <senior-evangelist.rst>`_
+------------------------------------------------------
+* Equipping and inspiring developers worldwide to do more with Docker and data services.
 
-* We value work/life balance with options for flexible schedule and work locations.
+  * San Francisco, CA.
 
-* Last but not least, we competitive salary and benefits and a chance to be part of something big.
+`Head of Developer Experience <developer-experience.rst>`_
+----------------------------------------------------------
+* Helping make our software and documentation simple and easy-to-use for developers at all stages of the development lifecycle.
+
+  * Bristol, England.
+
+About our team and our values
+=============================
+
+* We believe in test-driven development and pair programming as the best ways to build `ultimate quality software <https://twistedmatrix.com/trac/wiki/UltimateQualityDevelopmentSystem>`_.
+
+* We believe in being good actors in the open source community, to which we owe so much, and we upstream as much as possible.
+
+  * Many of the members of our small team are core contributors to Docker, Twisted, OpenZFS, FreeBSD and Linux.
+
+* We believe in hiring self-motivated, entrepreneurial and visionary team members in all parts of the organization.
+
+* We are working hard to change the world, but also recognise that for many people life is (and should be) about more than work.
+
+  * We support our team with respect to relationships, family, children, friends and other pursuits.
+  * We offer benefits including ample maternity and paternity leave.
+  * We discourage working crazy hours, citing diminishing returns on long hours in creative roles and risk of burn-out and stress.
+
+* Last but not least, we offer competitive salaries, other benefits and a chance to be part of something big.
