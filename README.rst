@@ -15,27 +15,23 @@ If you don't see anything that looks quite right, but you think that you would s
 
 `Senior Engineer <senior-engineer.rst>`_
 ----------------------------------------
-Architecting and building the next generation of storage and cluster management infrastructure for containers.
-
-**Hiring globally (including remote).**
+* Architecting and building the next generation of storage and cluster management infrastructure for containers.
+* **Hiring globally (including remote).**
 
 `Middle Engineer <middle-engineer.rst>`_
 ----------------------------------------
-Building the next generation of storage and cluster management infrastructure for containers.
-
-**Hiring in SF, Boston & Bristol.**
+* Building the next generation of storage and cluster management infrastructure for containers.
+* **Hiring in SF, Boston & Bristol.**
 
 `Senior Developer Evangelist <senior-evangelist.rst>`_
 ------------------------------------------------------
-Equipping and inspiring developers worldwide to do more with Docker and data services.
-
-**Preferred location:** San Francisco, CA.
+* Equipping and inspiring developers worldwide to do more with Docker and data services.
+* **Preferred location:** San Francisco, CA.
 
 `Head of Developer Experience <developer-experience.rst>`_
 ----------------------------------------------------------
-Helping make our software and documentation simple and easy-to-use for developers at all stages of the development lifecycle.
-
-**Preferred location:** Bristol, England.
+* Helping make our software and documentation simple and easy-to-use for developers at all stages of the development lifecycle.
+* **Preferred location:** Bristol, England.
 
 About our team
 ==============
