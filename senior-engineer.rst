@@ -15,7 +15,7 @@ Must have
 * Test-driven development and experience with all forms of automated testing and software quality assurance
 * Computer Science B.S. from top university or equivalent self-taught knowledge base
 * Experience designing high level architecture for resilient distributed systems
-* Technical leadership experience - good knowledge of the software development lifecycle models and their application, an affinity for mentoring and coaching more junior staff, developing architecture and communicating it to a wider team
+* Technical leadership experience - good knowledge of the software development lifecycle models and their application
 * 10+ years programming and systems architecture experience
 
 Nice to have
@@ -31,10 +31,13 @@ If you don't think you quite fit the bill, check out `middle engineer <middle-en
 We need help with:
 ------------------
 * **Architecting and building the next generation of storage and cluster management infrastructure for containers**
+* Mentoring and coaching more junior staff
+* Developing architecture and communicating it to a wider team
 * Code review
 * Pair programming
 * Writing technical documentation
 * Blogging on technical subjects you care about
+* Giving talks at technical events
 
 Location:
 ---------
