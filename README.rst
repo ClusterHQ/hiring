@@ -4,7 +4,7 @@ Who we are
 
 * Offices in the US (San Francisco, CA and Cambridge, MA) and Europe (Bristol, England).
 
-* A global team of container, storage and networking experts driven to solve the operational issues that come when data services like databases, queues and key-value stores are run in containers.
+* A global team of container, storage and networking experts driven to solve the operational issues running data services like databases, queues and key-value stores in containers.
 
 * We have big plans for Flocker, our open-source data volume and container manager which is based on 5 years of R&D, and need your help.
 
