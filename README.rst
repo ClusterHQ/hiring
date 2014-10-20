@@ -44,7 +44,7 @@ About our team and our values
 
 * We believe in being good actors in the open source community, to which we owe so much, and we upstream as much as possible.
 
-  * Many of the members of our small team are core contributors to Twisted, OpenZFS, FreeBSD and Linux.
+  * Many of the members of our small team are core contributors to Docker, Twisted, OpenZFS, FreeBSD and Linux.
 
 * We believe in hiring self-motivated, entrepreneurial and visionary team members in all parts of the organization.
 
