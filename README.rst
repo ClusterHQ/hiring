@@ -42,7 +42,7 @@ About our team and our values
 
 * We believe in test-driven development and pair programming as the best ways to build `ultimate quality software <https://twistedmatrix.com/trac/wiki/UltimateQualityDevelopmentSystem>`_.
 
-* We believe in being good actors in the open source community, to which we owe so much and we upstream as much as possible.
+* We believe in being good actors in the open source community, to which we owe so much, and we upstream as much as possible.
 
   * Many of the members of our small team are core contributors to Twisted, OpenZFS, FreeBSD and Linux.
 
