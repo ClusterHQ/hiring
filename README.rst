@@ -51,7 +51,7 @@ About our team and our values
 * We are working hard to change the world, but also recognise that for many people life is (and should be) about more than work.
 
   * We support our team with respect to relationships, family, children, friends and other pursuits.
+  * We offer benefits including ample maternity and paternity leave.
   * We discourage working crazy hours (citing diminishing returns on long hours in creative roles and risk of burn-out and stress)
-    and offer benefits including ample maternity and paternity leave.
 
 * Last but not least, we offer competitive salaries, other benefits and a chance to be part of something big.
