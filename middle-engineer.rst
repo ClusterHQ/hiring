@@ -1,4 +1,4 @@
-Senior Engineer
+Middle Engineer
 ===============
 
 To apply, please send us an email at jobs@clusterhq.com
