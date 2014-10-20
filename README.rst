@@ -2,7 +2,7 @@ Who we are
 ==========
 * A venture-backed startup with a mission to be `The Data People for Docker <https://clusterhq.com/about/>`_.
 
-* Offices in the US (San Francisco, CA and Cambridge, MA) and the UK (Bristol).
+* Offices in the US (San Francisco, CA and Cambridge, MA) and Europe (Bristol, England).
 
 * A global team of container, storage and networking experts driven to solve the operational issues that come when data services like databases, queues and key-value stores are run in containers.
 
