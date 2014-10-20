@@ -40,7 +40,7 @@ If you don't see anything that looks quite right, but you think that you would s
 About our team and our values
 =============================
 
-* We believe in test-driven development and pair programming and the best ways to build `ultimate quality software <https://twistedmatrix.com/trac/wiki/UltimateQualityDevelopmentSystem>`_.
+* We believe in test-driven development and pair programming as the best ways to build `ultimate quality software <https://twistedmatrix.com/trac/wiki/UltimateQualityDevelopmentSystem>`_.
 
 * We believe in being good actors in the open source community, to which we owe so much and we upstream as much as possible.
 
