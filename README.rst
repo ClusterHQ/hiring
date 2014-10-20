@@ -37,11 +37,14 @@ If you don't see anything that looks quite right, but you think that you would s
 
   * Bristol, England.
 
-About our team
-==============
-* We believe in open source, test-driven development and pair programming.
+About our team and our values
+=============================
 
-* Many of the members of our small team are core contributors to Twisted, OpenZFS and the Linux kernel.
+* We believe in test-driven development and pair programming and the best ways to build `ultimate quality software <https://twistedmatrix.com/trac/wiki/UltimateQualityDevelopmentSystem>`_.
+
+* We believe in being good actors in the open source community.
+
+* Many of the members of our small team are core contributors to Twisted, OpenZFS and the Linux kernel and we upstream as much as possible.
 
 * We believe in hiring self-motivated, entrepreneurial and visionary team members in all parts of the organization.
 
