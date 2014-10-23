@@ -61,7 +61,7 @@ About our team and our values
 -  We work hard to change the world while recognizing that life is about more than just work.
 
    -  We support our team with respect to relationships: family, children and other commitments.
-   -  We offer benefits including competitive maternity and paternity leave.
+   -  We offer benefits including competitive maternity and parental leave.
    -  We discourage overly long hours, citing diminishing returns.
 
 -  Last but not least, we offer competitive salaries, medical benefits and a chance to be part of something big.
