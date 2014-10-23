@@ -1,10 +1,10 @@
-Who we are
+Who we are
 ==========
 
 -  A top-tier-VC backed startup with a mission to be `The Data People for Docker <https://clusterhq.com/about>`__.
--  We love solving hard distributed systems problems and building revolutionary software.
+-  We love solving hard distributed systems problems and building revolutionary storage and cluster management software.
 -  We are comprised of leaders in the field of distributed systems, containers and storage.
--  Offices in the Europe (Bristol, UK) and the US (San Francisco, CA) with a team in Cambridge, MA.
+-  Offices in the Europe (Bristol, UK) and the US (San Francisco, CA) with a team in Cambridge, MA.
 -  A global team of container, storage and networking experts, driven to solve the operational issues running data services like databases, queues and key-value stores in containers.
 -  We have big plans for `Flocker <https://github.com/clusterhq/flocker>`__, our open-source data volume and container manager based on 5 years of R&D, and we need your help.
 
@@ -64,4 +64,4 @@ About our team and our values
    -  We offer benefits including competitive maternity and parental leave.
    -  We discourage overly long hours, citing diminishing returns.
 
--  Last but not least, we offer competitive salaries, medical benefits and a chance to be part of something big.
+-  Last but not least, we offer competitive salaries, medical benefits and a chance to be part of something big.
