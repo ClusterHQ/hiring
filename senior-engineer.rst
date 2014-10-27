@@ -9,7 +9,7 @@ About you
 Must have
 ~~~~~~~~~
 
--  Extensive experience with at least two of: distributed systems, storage, networking, containers.
+-  Extensive experience with at least two of: distributed systems (especially Zookeeper), storage, networking, containers.
 -  Experience with event-driven asynchronous network programming.
 -  Test-driven development and extensive experience with automated testing and software quality assurance.
 -  Significant production software development experience.
