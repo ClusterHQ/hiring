@@ -20,7 +20,7 @@ Must have
 Nice to have
 ~~~~~~~~~~~~
 
--  Ph.D or substantial experience designing, building and running distributed systems (especially Zookeeper).
+-  Ph.D or substantial experience designing, building and running distributed systems, especially Zookeeper.
 -  Proficient with Twisted (Python) and/or asynchronous network programming.
 -  Team leadership experience - leading team of engineers, people management.
 -  Love pair programming, have excellent team skills.
