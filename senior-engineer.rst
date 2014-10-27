@@ -9,7 +9,7 @@ About you
 Must have
 ~~~~~~~~~
 
--  Extensive experience with at least two of: distributed systems (especially Zookeeper), storage, networking, containers.
+-  Extensive experience with at least two of: distributed systems, storage, networking, containers.
 -  Experience with event-driven asynchronous network programming.
 -  Test-driven development and extensive experience with automated testing and software quality assurance.
 -  Significant production software development experience.
@@ -20,7 +20,7 @@ Must have
 Nice to have
 ~~~~~~~~~~~~
 
--  Ph.D or substantial experience designing, building and running distributed systems.
+-  Ph.D or substantial experience designing, building and running distributed systems (especially Zookeeper).
 -  Proficient with Twisted (Python) and/or asynchronous network programming.
 -  Team leadership experience - leading team of engineers, people management.
 -  Love pair programming, have excellent team skills.
