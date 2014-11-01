@@ -19,6 +19,7 @@ Nice to have
 ~~~~~~~~~~~~
 
 -  Experience with Twisted (Python) and/or asynchronous network programming.
+-  Operational experience running distributed applications on cloud infrastructure or bare metal.
 -  BA in Computer Science or experience designing, building and running distributed systems.
 -  OSS experience - demonstrated by a large body of contributions to open-source projects.
 
