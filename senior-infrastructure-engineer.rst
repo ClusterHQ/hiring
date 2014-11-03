@@ -9,7 +9,7 @@ About you
 Must have
 ~~~~~~~~~
 
--  Extensive experience with Buildbot or compatible build tool.
+-  Extensive experience with Buildbot or other sophisticated Continuous Integration tool.
 -  Strong understanding of virtualization and networking.
 -  Good test-driven development skills.
 -  Extensive experience with automated testing and software quality assurance.
