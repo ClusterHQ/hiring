@@ -42,7 +42,7 @@ If you don't see anything that looks quite right, but you think that you would s
 
    -  Bristol, UK.
 
-`Head of Developer Experience <head-of-developer-experience.rst>`__
+`Senior Developer Experience Designer <senior-developer-experience-designer.rst>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 -  Helping make our software and documentation simple and easy-to-use for developers at all stages of the development lifecycle.
