@@ -6,7 +6,7 @@ To apply, please send us an email at jobs@clusterhq.com.
 About you
 ---------
 
-- You are experienced using the tools of UX and Interaction Design, and have mentored other designers in their use.
+- You are experienced using the tools of UX and Interaction Design.
 
 - You have a strong aesthetic sense and though you might not consider yourself a visual designer, you can guide the visual design process in service of creating great developer experiences.
 
